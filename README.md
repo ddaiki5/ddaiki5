@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### My status
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ddaiki5&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ddaiki5/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddaiki5&layout=compact&theme=tokyonight)](https://github.com/ddaiki5/)
 <!--
 **ddaiki5/ddaiki5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
